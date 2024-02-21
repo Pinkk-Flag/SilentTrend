@@ -17,5 +17,9 @@ def main():
     # Once data.py completes, run analysis.py
     import analysis
 
+    print("Press any key to exit...")
+    input()  # Wait for user input
+    print("Exiting...")
+
 if __name__ == "__main__":
     main()
