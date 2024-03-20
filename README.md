@@ -42,6 +42,9 @@ First, please download as a zip, or clone it in the directory of your choice wit
 
 A simple terminal interface. Admittedly, the interface is not the most user friendly, but that will come in future github repositories.
 
+# Important! Update v2!
+Subtle yet big error that could cause application to not work. PATH variable under analysis.py is changed to your own path. Please enter the ENTIRE path to that file. You can do so by simply going into the folder "Weekly Data CSV" and then go to the top bar (in windows file explorer) and copy. There are other methods. Some examples include: /home/user/.../SilentTrend/Weekly Data CSV/Data.csv or C:\...\Weekly Data CSV\Data.csv or whatever the format is. 
+
 ### Tickers
 "S&P500", "NASDAQ", "RUSSEL", "DOW E-MINI", "30Y T-BOND", "10Y T-BOND", "DOLLAR INDEX", "EURO FX", "SWISS FRANC", "BRITISH POUND", "JAPANESE YEN", "CANADIAN DOLLAR", "AUSTRALIAN DOLLAR", "NEW ZEALAND DOLLAR", "MEXICAN PESO", "CRUDE OIL", "GASOLINE", "HEATING OIL", "NATURAL GAS", "GOLD", "SILVER", "PLATINUM", "PALLADIUM", "COPPER", "SOYBEANS", "SOYBEAN MEAL", "SOYBEAN OIL", "CORN", "WHEAT", "ROUGH RICE", "COTTON", "COFFEE", "COCOA", "SUGAR", "ORANGE JUICE", "LIVE CATTLE", "FEEDER CATTLE", "LEAN HOGS", "BITCOIN", "VIX FUTURES"
 
